@@ -12,7 +12,7 @@ dependencies = [
     "matplotlib>=3.7.0",
     "PyQt6>=6.4.0",
     "PyQt6-Qt6>=6.4.0",
-    "subgraph @ git+https://gitlab.com/epp-group/subgraph.git@v1.0.0",
+    "subgraph @ git+https://github.com/hjstephan86/subgraph.git@v1.0.0",
 ]
 
 [project.optional-dependencies]

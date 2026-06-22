@@ -224,7 +224,7 @@ def verify_loops(
         raise ImportError(
             "Das Paket 'subgraph' ist nicht installiert.\n"
             "Bitte installieren mit:\n"
-            "  pip install git+https://gitlab.com/epp-group/subgraph.git@v1.0.0"
+            "  pip install git+https://github.com/hjstephan86/subgraph.git@v1.0.0"
         ) from exc
 
     # Graphen erzeugen

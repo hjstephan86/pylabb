@@ -526,7 +526,7 @@ print(count_rhp_roots(coeffs))     # Anzahl instabiler Wurzeln
 
 Ab Version 2.0.0 bietet PyLab eine graphenstrukturelle Äquivalenzprüfung zweier
 Regelkreise auf Basis des **Subgraph Algorithmus** (Abhängigkeit:
-`subgraph @ git+https://gitlab.com/epp-group/subgraph.git@v1.0.0`).
+`subgraph @ git+https://github.com/hjstephan86/subgraph.git@v1.0.0`).
 
 #### Funktionsprinzip
 
