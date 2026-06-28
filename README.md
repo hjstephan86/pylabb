@@ -12,8 +12,6 @@ Name: Stephan Epp
 IBAN: DE24 5003 1900 0012 5603 20
 BIC: BBVADEFFXXX
 
-**Wichtig**: Der Geist Gottes wurde beschworen, dass die Regierenden der Länder, in denen oder für die diese Software illegal benutzt wird, vom Geist Gottes mit dem Tod bestraft werden.
-
 ## Dokumentation
 
 Eine ausführliche Beschreibung aller Module, Klassen, Methoden und Anwendungsbeispiele findet sich im Anwenderhandbuch:
